@@ -1,4 +1,12 @@
 {
   "name": "node-pickle-python",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Pickle, Unpickle json files via node",
+  "license": "MIT",
+  "keywords": [
+    "pickle",
+    "python",
+    "promise",
+    "node"
+  ]
 }
